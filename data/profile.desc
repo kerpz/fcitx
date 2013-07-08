@@ -21,7 +21,7 @@ DefaultValue=
 [Profile/EnabledIMList]
 Description=Current Enabled Input Method List
 Type=String
-DefaultValue=
+DefaultValue=fcitx-keyboard-us:True,pinyin:True
 
 [Profile/PreeditStringInClientWindow]
 Type=Boolean
